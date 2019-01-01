@@ -12,7 +12,10 @@ You have to install [react-native-vector-icons](https://github.com/oblador/react
  - create a folder inside your project and put inside selection.json and weatherIcon files
  - open your app on Xcode and add manualy icomoon.ttf font.
  - Inside your project import weatherIcon.js where you need to add a Icon.
- - Use it like this <Icon name="wi-day-sunny" />
+ - Use it like this: 
+ ```
+ <Icon name="wi-day-sunny"/>
+ ```
 
 ### Troubleshoot
 
